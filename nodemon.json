@@ -1,0 +1,11 @@
+{
+    "env": {
+        "MONGO_USER": "pipithipi",
+<<<<<<< HEAD
+        "MONGO_PASSWORD": "OTP6HdhKx59samkK",
+=======
+        "MONGO_PASSWORD": "wjvEtTiswWqtxYhT",
+>>>>>>> 60230a27ac8f60a5b63dd5c861dd3fddd20e324d
+        "MONGO_DB": "events-react-dev" 
+    }
+}
